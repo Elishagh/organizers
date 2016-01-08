@@ -1,7 +1,4 @@
-# organizers 
-
-- Learn to run an event and get pro-tips from other organizers in the [organizers wiki](https://github.com/connected-devices/organizers/wiki)
-- Ask a question or browse discussions in the [organizers discussion board](https://github.com/connected-devices/organizers/issues)
+# Organizers
 
 If you are an existing organizer, or intend to become one in the future **please read and abide by our [code of conduct](code_of_conduct.md)**.
 
